@@ -1,0 +1,8 @@
+This is an ANSI C implementation of MD5 I coded up for Network Security. 
+
+I did a pretty BAMF job of commenting it, which is rare, so I figured I would put this up on Github for the world to see and benefit from. You're welcome, world. :)
+
+To compile, simply run make and Remo's awesome Makefile will do the rest (at least on systems with gcc). If you don't have gcc, use whatever C compiler you have on md5.c. It's ANSI C compliant, so it should compile with any real C compiler.
+
+kthxbai,
+- animanmaster
